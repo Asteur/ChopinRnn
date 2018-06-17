@@ -1,6 +1,6 @@
 # Chopin_classifier
 
-Chopin_classifier is a classifier that uses CNN(Concolutional Neural Network) plus transfer learning to do Chopins' music classification. 
+Chopin_classifier is a classifier that uses CNN(Convolutional Neural Network) plus transfer learning to do Chopins' music classification. 
 
 
 Documentation
