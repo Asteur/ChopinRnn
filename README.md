@@ -25,7 +25,11 @@ Necessary Packages:
 
 [Jupyter Notebook](http://jupyter.org/install)
 
-
+Data Acquire Source
+-------------------
+All the training data can be accessed through:
+* [Chopin midi Page](http://www.piano-midi.de/chopin.htm)
+* [Chopin and Other composers mp3 files](https://archive.org/details/musopen-chopin)
 Usage Manual
 -------------
 * Open the Jupyter Notebook
